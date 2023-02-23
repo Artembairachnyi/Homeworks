@@ -6,4 +6,5 @@ def is_prime(arg: int):
 
 
 if __name__ == '__main__':
-    result = is_prime(100)
+    result = is_prime
+    result(100)
