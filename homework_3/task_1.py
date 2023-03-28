@@ -10,5 +10,3 @@ for x in my_list:
     print(odd_list)
     print(even_list)
 
-
-print("bla bla")
