@@ -9,3 +9,4 @@ for x in my_list:
         even_list.append(x)
     print(odd_list)
     print(even_list)
+
